@@ -1,0 +1,5 @@
+Data preparationa and Modeling (Python): Clean and transform the raw dataset for analysis.
+Data Analysis(SQL): Organize the Data into a structured format, simulate business transactions and run queries to extract insights on customer segments, loyalty and purchase drivers.
+Visualization and insights (Power BI): Build an interactive dashboards that highlights key patterns and trends enabling stakeholders to make data - driven decisions
+Report and Presentation: Write a clear project report summarizing key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable reommendations to stakeholders.
+Github Repository: Include all Python scripts, SQL queries and dashboard files in a well structured repository.
